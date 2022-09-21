@@ -1,0 +1,3 @@
+rootProject.name = "Table"
+include ':app'
+include ':Sudoku'
